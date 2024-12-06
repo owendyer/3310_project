@@ -1,7 +1,7 @@
 from rich import get_console
 import csv
 
-from .constants import USER_FIELD_NAMES, MOVIE_FIELD_NAMES, RATING_FIELD_NAMES
+from constants import USER_FIELD_NAMES, MOVIE_FIELD_NAMES, RATING_FIELD_NAMES
 
 
 def convert_users_to_csv():
@@ -22,7 +22,7 @@ def convert_movies_to_csv():
     parsed_movies = []
     with open("./datasets/movielens-100k-dataset/versions/1/ml-100k/u.item") as file:
         for line in file:
-            # id | movie | title | release | date | video | release | date | IMDb | URL | unknown | Action | Adventure | Animation | Children's | Comedy | Crime | Documentary | Drama | Fantasy | Film - Noir | Horror | Musical | Mystery | Romance | Sci - Fi | Thriller | War | Western
+            # id | title | release date | video release date | IMDb URL | unknown | Action | Adventure | Animation | Children's | Comedy | Crime | Documentary | Drama | Fantasy | Film - Noir | Horror | Musical | Mystery | Romance | Sci - Fi | Thriller | War | Western
             parsed_line = line.strip().split("|")
             parsed_movies.append(parsed_line)
 

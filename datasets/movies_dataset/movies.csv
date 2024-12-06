@@ -1,4 +1,4 @@
-id,movie,title,release,date,video,release,date,IMDb,URL,unknown,Action,Adventure,Animation,Children's,Comedy,Crime,Documentary,Drama,Fantasy,Film - Noir,Horror,Musical,Mystery,Romance,Sci - Fi,Thriller,War,Western
+id,title,release date,video release date,IMDb URL,unknown,Action,Adventure,Animation,Children's,Comedy,Crime,Documentary,Drama,Fantasy,Film - Noir,Horror,Musical,Mystery,Romance,Sci - Fi,Thriller,War,Western
 1,Toy Story (1995),01-Jan-1995,,http://us.imdb.com/M/title-exact?Toy%20Story%20(1995),0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 2,GoldenEye (1995),01-Jan-1995,,http://us.imdb.com/M/title-exact?GoldenEye%20(1995),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 3,Four Rooms (1995),01-Jan-1995,,http://us.imdb.com/M/title-exact?Four%20Rooms%20(1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
@@ -1298,7 +1298,7 @@ id,movie,title,release,date,video,release,date,IMDb,URL,unknown,Action,Adventure
 1297,Love Affair (1994),01-Jan-1994,,http://us.imdb.com/M/title-exact?Love%20Affair%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
 1298,"Band Wagon, The (1953)",01-Jan-1953,,"http://us.imdb.com/M/title-exact?Band%20Wagon,%20The%20(1953)",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
 1299,Penny Serenade (1941),01-Jan-1941,,http://us.imdb.com/M/title-exact?Penny%20Serenade%20(1941),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
-1300,'Til There Was You (1997),30-May-1997,,http://us.imdb.com/Title?%27Til+There+Was+You+(1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+1300,"'Til There Was You (1997)",30-May-1997,,http://us.imdb.com/Title?%27Til+There+Was+You+(1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
 1301,Stripes (1981),01-Jan-1981,,http://us.imdb.com/M/title-exact?Stripes+(1981),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1302,Late Bloomers (1996),06-Jun-1997,,http://us.imdb.com/M/title-exact?Late%20Bloomers%20%281996%29,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1303,"Getaway, The (1994)",01-Jan-1994,,"http://us.imdb.com/M/title-exact?Getaway,%20The%20(1994)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
