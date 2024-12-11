@@ -1,5 +1,6 @@
 # Python virtual environment
 /.venv/
 
-# Raw dataset
-datasets/movielens-100k-dataset/
+/.idea/
+
+*/__pycache__
